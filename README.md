@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @catiedoucette
-- 👀 I’m interested in Front End Dev
-- 🌱 I’m currently learning to excel at JavaScript
-- 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at caitlindoucette@gmail.com
 
 <!---
